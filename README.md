@@ -68,7 +68,7 @@ The project is designed for low latency while maintaining stable audio playback.
 * Arduino IDE 2.x
 * ESP32 Arduino Core
 
-### Computer
+### PC Windows/Linux
 
 Install Python packages:
 
@@ -80,7 +80,7 @@ pip install sounddevice numpy
 
 ## Wi-Fi Configuration
 
-The ESP32 creates its own Wi-Fi network.
+The ESP32 creates its own Wi-Fi network when you select the ap code. If you want to use a external router to make a LAN, please use the sta version of code "esp32s3_mic_udp_sta.ino". 
 
 **SSID**
 
