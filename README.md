@@ -192,6 +192,12 @@ project/
 * Headphones provide the best experience.
 * The project streams uncompressed PCM audio for minimum latency.
 
+
+## Further Scope
+
+* Designing 2 Mic array 
+* Stereo Audio System
+* ANC 
 ---
 
 ## License
